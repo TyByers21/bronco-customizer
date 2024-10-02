@@ -5,7 +5,7 @@ var TexturePaths = [
     },
     {
         overlay: 2,
-        path: "textures/Slaughter.png"
+        path: "textures/Slaughter Base Color.png"
     },
     {
         overlay: 3,
@@ -21,15 +21,15 @@ var TexturePaths = [
     },
     {
         overlay: 6,
-        path: "textures/Joker Base Color.001.png"
+        path: "textures/Joker Base Color.png"
     },
     {
         overlay: 7,
-        path: "textures/Madness Base Color.001.png"
+        path: "textures/Madness Base Color.png"
     },
     {
         overlay: 8,
-        path: "textures/Desert Base Color.001.png"
+        path: "textures/Desert Base Color.png"
     },
     {
         overlay: 9,
@@ -37,23 +37,23 @@ var TexturePaths = [
     },
     {
         overlay: 10,
-        path: "textures/Mayan.png"
+        path: "textures/Mayan Base Color.png"
     },
     {
         overlay: 11,
-        path: "textures/SeaBreeze.png"
+        path: "textures/SeaBreeze Base Color.png"
     },
     {
         overlay: 12,
-        path: "textures/ShapeShifter.png"
+        path: "textures/ShapeShifter Base Color.png"
     },
     {
         overlay: 13,
-        path: "textures/Silk.png"
+        path: "textures/Silk Base Color.png"
     },
     {
         overlay: 14,
-        path: "textures/SnakeSkin.png"
+        path: "textures/SnakeSkin Base Color.png"
     },
     {
         overlay: 15,
@@ -79,7 +79,67 @@ var TexturePaths = [
         overlay: 20,
         path: "textures/Zombie Base Color.png"
     },
+    {
+        overlay: 21,
+        path: "textures/Linearock Base Color.png"
+    },
+    {
+        overlay: 22,
+        path: "textures/Euclid Base Color.png"
+    },
+    {
+        overlay: 23,
+        path: "textures/Pantone Base Color.png"
+    },
+    {
+        overlay: 24,
+        path: "textures/Heavenly Base Color.png"
+    },
+    {
+        overlay: 25,
+        path: "textures/LiquidArmy Base Color.png"
+    },
+    {
+        overlay: 26,
+        path: "textures/Tribal Base Color.png"
+    },
+    {
+        overlay: 27,
+        path: "textures/Ribs Base Color.png"
+    },
+    {
+        overlay: 28,
+        path: "textures/Fantastic Base Color.png"
+    },
 
+    {
+        overlay: 29,
+        path: "textures/Geometric Base Color.png"
+    },
+    {
+        overlay: 30,
+        path: "textures/Lagoon Base Color.png"
+    },
+    {
+        overlay: 31,
+        path: "textures/Panther Base Color.png"
+    },
+    {
+        overlay: 32,
+        path: "textures/Venom Base Color.png"
+    },
+    {
+        overlay: 33,
+        path: "textures/Neon Base Color.png"
+    },
+    {
+        overlay: 34,
+        path: "textures/Warrior Base Color.png"
+    },
+    {
+        overlay: 35,
+        path: "textures/Marble Base Color.png"
+    },
 ]
 
 
